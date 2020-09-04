@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "werf-kuber-test",
+  "private_key_id": "885320b421d712a41153d05af166ca750c88b51f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmHztVEc8RcP+l\nCgcPMB2FNP2S4UHEAmysphpoLd2O97BwJl1XRF0qFKoNo4KMkj05KJAsJEmuNufH\nBTg+6smU37af/Mou0agJ4akD4m16biauAdvaRWlY3A6XRvZnU/gA0XFxBJLSUEgR\nY4Xts2SvdFnjFyQAmFmQZ+yvoWwAMjY/+CCJ1gmW6S8IlY1nAQ66XtI/6P6axvmc\nuR3odmHprQVaVy5kf4WfAp6DAgiLY0PCU7tYgQmLl0HemrksWE1NU7fHLKwCtLhm\nnV3YBJPrkDZ86ya00NPpJ+DPM8iKpH2Lt234jGwNb+yKXwT4yZs1qKVzOn+1H/PD\ncYMRhQNhAgMBAAECggEAGA+5A9LfB7syxCBmMlx5QiSRP/eRk4b4X691braJ+13D\n+BKOfYfg6KnykaQn0h2ScZd+/m3JIEtCmhCW+4H9batTo+u1C0AB02CUnwPqcIvI\n3XZWdlCMeDrzgBTetsuyRcgQYtrTO1Q2hBJCwVG1GTbEmEBvTgjDHEf5P90lLAfd\nrc2frIDZ//NljINHdid3JPNpwNXCBoPf/YIL7G8nbjLiHMyAZvHBqZ9LuI3gUkoi\niFRv8AkxMhq2ZULh/ZpEUqiv3t/4GRBOxksm6jWsgbQ82ETp7y16N04LmjziUNKn\nrbgcBiQH5iKjZcD/yPvJDPUc+kUK8eUZ1qyu7fEjWwKBgQDn6Q1MMmqQIRf/ecgX\nxnvCRcBpfE+9RM6DLTvM6ycLkTeRq2R4dETIyvb0va9AgwZvg2KyXFbEoOY/CPtY\n/hu7Ic34GMsRfp7tjKOR4i1xofV32LPY9Eti+j5N8iypRNKVB/tN7zTfg/IHWJUB\nJff62jF4e/NrQr1dd+reV1GtAwKBgQC3YL09U7l0SZ5ITdODvzaHVJQWlXfs++Xe\nGy86/z/jTRwp61B5raqgsJU4ll5Jb/NONmuWQtU+h9qR3Qt/78Uux22SD+CWFCd8\n+gshxz/mvndw/56MOPPCYmz0OeGbeKgbVyXc2c7pQ6s+AVRIPlPX+T3C2O/3Hr2W\nJxqr8CZGywKBgDzlZHmCr5rDJeMO3mzn0K2V1U2dt+6SN8wYP6CyiuEts7LLl6lN\nlpZHPYvMl01QWotDq9H8D0i4m10oBaA7sZp06PnhwMkKP79O89Cl3Jr/FU7wF2G7\n3GPUJDIhinq0OLurieDQFEkxA4fMSewwRSqYyu7BVYzvzHvTtlfGBAtzAoGAFN47\natk2R5eBHbVNlraR3ACyAYfs59kapZXuYAZgHNvPkq2msNIkkrjFonTqMe09gO8M\ne0MLxVvscaD4CA0fIV2siGyqICoW/E/wKF3mVbnjGcbdIhPxGXPd9kUH+YtXhhT6\nyBE5TK5YtGuuTbJaFD/W2W+aj0K+THISxPJFSNUCgYEA1OHxxoBuUt/Dzval31kV\nxVfoeA6PF1eCflWL6Ot0luNkHPiVL9OCEtX9zu6aa9OOVE3ivN9Irval7YH5FuoU\n+eyw0We9uHEVPWzXrln0ivaVukOjNUbRqefv6El88i4O9k5rVed7BvkdwXkqWVks\nk0ydyeET+1MbrH5ZhJuNcq4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "default-kuber@werf-kuber-test.iam.gserviceaccount.com",
+  "client_id": "107158046438729565549",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/default-kuber%40werf-kuber-test.iam.gserviceaccount.com"
+}
