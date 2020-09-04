@@ -1,0 +1,5 @@
+project: werf-kuber-test
+configVersion: 1
+---
+image: ~
+dockerfile: Dockerfile
